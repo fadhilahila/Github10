@@ -16,5 +16,6 @@ public class Rukunnegara {
                 System.out.println ("Keluhuran perlembagaan");
                 System.out.println ("Kedaulatan undang-undang");
                 System.out.println ("Kesopanan dan kesusilaan");
+                System.out.println ("Kesopanan dan kesusilaan");
             }
 }
